@@ -1,0 +1,44 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sem Título 25
+
+## Skin
+
+### Button
+Button_E60B8634_FB49_1501_41D3_1EB9128CFA11.label = IMAGEM AÉREA
+Button_E60B8634_FB49_1501_41D3_1EB9128CFA11_mobile.label = IMAGEM AÉREA
+Button_E610DBA4_FB4B_1301_41E8_B78505FDE928.label = BALCÃO
+Button_E610DBA4_FB4B_1301_41E8_B78505FDE928_mobile.label = BALCÃO
+Button_E682BE0D_FB49_3503_41EA_3D7E1FA6BA1B.label = SALÃO
+Button_E682BE0D_FB49_3503_41EA_3D7E1FA6BA1B_mobile.label = SALÃO
+Button_E68CB280_FB4F_2D01_41C3_8DC56C22B65A.label = ÁREA EXTERNA
+Button_E68CB280_FB4F_2D01_41C3_8DC56C22B65A_mobile.label = ÁREA EXTERNA
+
+## Media
+
+### Title
+panorama_E8E524D2_E22D_375A_41E7_FF74F3E259A8.label = Drone Lugano Santo Andre
+panorama_E8E7169C_E22F_F3CE_41EC_1F3FEDF6F812.label = 5
+panorama_E8E74725_E22F_12FE_41B6_E94287B06BB2.label = 7
+panorama_E8E7734A_E22F_714A_4193_CEE04D4D56FA.label = 3
+panorama_E8E77537_E22F_36DA_41E8_4A1CBF8CF107.label = 4
+panorama_E8E7A986_E22F_11BA_41BB_7F0E60E5D40C.label = 8
+panorama_E8E7AB01_E22F_32B6_41EB_B4693C092AB8.label = 6
+panorama_E8FA61A2_E22F_31FA_41D9_2BDFC06C83CB.label = 2
+panorama_E994FD54_E22D_315E_41E2_6F324CA78AAB.label = 1
+video_F20A572B_E25D_12CA_41E0_827CEA5892FA.label = Video 4
+
+## Action
+
+### URL
+LinkBehaviour_F136840E_E26F_76CA_41B0_E95BC9C2B98A.source = https://wa.link/k5jkgw
+LinkBehaviour_F1678B31_E26D_F2D6_41B2_82BBF0A09833.source = https://goo.gl/maps/9iXyeC4kseMAyh7EA
+LinkBehaviour_F1A80E45_E26D_12BE_41EA_AD128360B66C.source = https://www.instagram.com/chocolatelugano.SANTOANDRE/
+LinkBehaviour_F1EC87C2_E26D_11BA_41DC_1517E74149A6.source = https://goo.gl/maps/9iXyeC4kseMAyh7EA
+LinkBehaviour_F1ED17C0_E26D_11B6_41D0_D387317C6FDA.source = https://wa.link/k5jkgw
+LinkBehaviour_F1ED47C1_E26D_11B6_4194_4E07E21BBBBC.source = https://www.instagram.com/chocolatelugano.SANTOANDRE/
