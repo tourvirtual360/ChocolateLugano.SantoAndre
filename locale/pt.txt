@@ -3,9 +3,10 @@
 ## Tour
 
 ### Description
+tour.description = Cafeteria e Chocolataria
 
 ### Title
-tour.name = Sem Título 25
+tour.name = Chocolate Lugano Santo André
 
 ## Skin
 
